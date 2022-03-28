@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there 👋
+
+- 🔭 I’m currently working on portfolio app
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CumaBolat&layout=compact&theme=gruvbox&exclude_repo=Hackerrank-30-Days-Of-Code,Snake-Game)](https://github.com/CumaBolat/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CumaBolat&theme=gruvbox" alt="cumabolat" /></p>
 
 <!--
 **CumaBolat/CumaBolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CumaBolat&count_private=true&theme=gruvbox)
+
 -->
