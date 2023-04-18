@@ -1,6 +1,7 @@
 ### Hey there 👋
 
-- 🔭 I’m currently working on portfolio app
+- 🔭 I’m currently working on School Spy app.
+- 🌱 I’m currently improving myself on Ruby on Rails.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CumaBolat&layout=compact&theme=gruvbox&exclude_repo=Hackerrank-30-Days-Of-Code,Snake-Game)](https://github.com/CumaBolat/github-readme-stats)
 
