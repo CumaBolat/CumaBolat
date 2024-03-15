@@ -3,7 +3,7 @@
 
 - I’m currently working on [jsearch](https://github.com/CumaBolat/jsearch)
 
-- How to reach me **cumabolat06@hotmail.com**
+- How to reach me **cuma.bolat.codes@gmail.com**
 
 
 <h3 align="left">Tech Stack:</h3>
